@@ -10,7 +10,7 @@
 
 **-- Topics: CRUD, Constraints, Operators, Clauses,**
 
-**-- Aggregate Functions, GROUP BY, HAVING, LIMIT, OFFSET, Aliases, ALTER TABLE**
+**-- Aggregate Functions, LIMIT, OFFSET, Aliases, ALTER TABLE**
 
 
 
